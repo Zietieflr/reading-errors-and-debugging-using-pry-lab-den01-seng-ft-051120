@@ -10,4 +10,4 @@ def play_game(player1, player2)
 end
 
 #start_game('Cally', 'Agnes');
-play_game('Agnes');
+play_game('Cally', 'Agnes');
